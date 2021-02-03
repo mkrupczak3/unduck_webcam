@@ -9,6 +9,11 @@ Don't do this for scripts you don't trust! (Also, why do you trust me?)
 
     sudo wget -O - https://raw.githubusercontent.com/mkrupczak3/unfuck_webcam/main/unfuck_webcam.sh | sudo bash
 
+## Too bright, overexposed, or underexposed?:
+Use [unfuck_c920_bright.sh](https://github.com/mkrupczak3/unfuck_c920_bright.sh/blob/main/unfuck_c920_bright.sh) instead, it the same settings but with auto-exposure adjustment enabled
+
+    sudo wget -O - https://raw.githubusercontent.com/mkrupczak3/unfuck_c920_bright.sh/main/unfuck_c920_bright.sh | sudo bash
+
 
 ## More Info:
 [christitus.com/logitech-c920-linux-driver](https://christitus.com/logitech-c920-linux-driver/)
