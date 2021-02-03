@@ -43,7 +43,7 @@ v4l2-ctl -d $device --set-ctrl=focus_absolute=35
 # v4l2-ctl -d /dev/video0 --set-ctrl=contrast=105
 # v4l2-ctl -d /dev/video0 --set-ctrl=saturation=140
 #
-#----------------------------------------------
+#-----------------------------------------------
 #    List of ctrls for Logitech c920 webcam:
 #-----------------------------------------------
 #
