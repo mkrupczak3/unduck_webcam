@@ -1,28 +1,21 @@
-# unfuck_webcam
-A simple shell script to un-fuck your Logitech c920 webcam on Linux.
+# unduck_webcam
+A simple shell script to un-duck your Logitech c920 webcam on Linux.
 
 Fixes horrible issues with autofocus, autoexposure, autocolor temperature, brightness, color saturation...
 
 ## Run me:
 Don't do this for scripts you don't trust! (Also, why do you trust me?)
 
-
-    sudo wget -O - https://raw.githubusercontent.com/mkrupczak3/unfuck_webcam/main/unfuck_webcam.sh | sudo bash
-
-## Too bright, overexposed, or underexposed?:
-Use [unfuck_c920_bright.sh](https://github.com/mkrupczak3/unfuck_c920_bright.sh/blob/main/unfuck_c920_bright.sh) instead, it the same settings but with auto-exposure adjustment enabled
-
-    sudo wget -O - https://raw.githubusercontent.com/mkrupczak3/unfuck_c920_bright.sh/main/unfuck_c920_bright.sh | sudo bash
-
+    sudo wget -O - https://raw.githubusercontent.com/mkrupczak3/unduck_webcam/main/unduck_webcam.sh | sudo bash
 
 ## More Info:
 [christitus.com/logitech-c920-linux-driver](https://christitus.com/logitech-c920-linux-driver/)
 
-## unfuck_webcam.sh
+## unduck_webcam.sh
 
 ```bash
 #!/usr/bin/env bash
-# Matthew's unfuck_webcam.sh
+# Matthew's unduck_webcam.sh
 
 # Designed for use with Logitech c920,
 #     pls modify grep to work w/ others.
