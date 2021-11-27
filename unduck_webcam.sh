@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Matthew's unfuck_webcam.sh
+# Matthew's unduck_webcam.sh
 
 # Designed for use with Logitech c920,
 #     pls modify grep to work w/ others.
